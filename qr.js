@@ -16,17 +16,17 @@ const MESSAGE = process.env.MESSAGE ||  `
 *SESSION GENERATED SUCCESSFULY* ✅
 
 *Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/Tohidkhan6332/TOHID-KHAN
+https://github.com/SANIJA-official
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/Tohid_mewati
-https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
+https://t.me/sanijatech2023
+https://whatsapp.com/channel/0029Vai5pJa5vK9zcGR1PX2f
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/Tohidkhan_6332
+https://youtube.com/@futuretechwithsanija?si=LNzDXTa1CixxBrxK
 
-*TOHID-KHAN--WHATTSAPP-BOT* 🥀
+*SANIJA-MD--WHATTSAPP-BOT* 🥀
 `
 
 
@@ -79,7 +79,7 @@ if (fs.existsSync('./auth_info_baileys')) {
 
         logger: pino({ level: "silent" }), 
 
-        browser: Browsers.macOS("Desktop"),
+        browser: Browsers.macOS("chrome"),
 
         auth: state 
 
