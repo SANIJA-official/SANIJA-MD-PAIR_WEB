@@ -11,8 +11,8 @@ const MESSAGE = process.env.MESSAGE || `
 https://github.com/SANIJA-official
 
 *Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/Tohid_mewati
-https://whatsapp.com/channel/0029VaGyP933bbVC7G0x0i2T
+https://t.me/sanijatech2023
+https://whatsapp.com/channel/0029Vai5pJa5vK9zcGR1PX2f
 
 
 *Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
